@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
                       borderRadius: BorderRadius.circular(12), // Bordas arredondadas
                       boxShadow: [
                         BoxShadow(
-                          color: Colors.black.withOpacity(0.3), // Sombra preta translúcida
+                          color: Colors.black, // Sombra preta translúcida
                           blurRadius: 10, // Desfoque da sombra
                           offset: const Offset(4, 4), // Deslocamento da sombra
                         ),
